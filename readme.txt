@@ -1,5 +1,5 @@
 nbba theme
-
+Repurposed by RetroEvolved team for non-commercial release
 Changes:
 Version 1.2
 - Added theme for 3DO Interactive Multiplayer, Atari Jaguar, Famicom Disk System, Kodi, Magnavox Odyssey 2, Nintendo DS, Nintendo Virtual Boy, Sega Saturn, Sega SG-1000, SNK Neo Geo Pocket
